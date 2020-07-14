@@ -343,5 +343,7 @@ New Line added.
 # Hello there from Anindya
 Madhurhita edited from newBranch
 
+#updated file by Manoj kumar
+Manoj kumar
 
 Practiced Rebase, Interactive Rebase, Revert commit and Squash commits
